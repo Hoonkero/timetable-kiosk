@@ -8,14 +8,14 @@
     "title": "Расписание на I полугодие",
     "updatedAt": "2026-09-15T08:00:00+03:00",
     "revision": "r12",
-    "teachers": { "t1": "Ковалёва Марина Андреевна" },
+    "teachers": { "t1": "Преподаватель 04" },
     "classes": {
       "7А": {
         "displayName": "7А",
         "days": {
           "monday": [
             { "lesson": 1, "time": "08:30–09:10", "subject": "Алгебра",
-              "teacher": "Ковалёва Марина Андреевна", "teacherIds": ["t1"], "room": "203" }
+              "teacher": "Преподаватель 04", "teacherIds": ["t1"], "room": "203" }
           ]
         }
       }
